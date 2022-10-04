@@ -1,0 +1,50 @@
+body {
+	background-color: #EFEFEF;
+}
+
+.main {
+	display: flex;
+	padding: 25px;
+	flex-direction: row;
+}
+
+.col1 {
+	width:  40%;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+.col2 {
+	width: 60%;
+}
+
+h1 {
+	font-family: Palatino;
+	font-size: 5em;
+	line-height: 20px;
+}
+
+h2 {
+	font-family: Helvetica;
+	color: #b7410e;
+
+}
+
+h3 {
+	font-family: Palatino;
+	font-style: italic;
+	font-weight: regular;
+	font-size: 1em;
+	color: #b7410e;
+	line-height: 25px;
+}
+
+p {
+	font-family: Helvetica;
+	line-height: 20px;
+}
+
+li {
+	color: #b7410e;
+}
+
